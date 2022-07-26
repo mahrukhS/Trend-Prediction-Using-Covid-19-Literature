@@ -2,7 +2,7 @@
 
 
 This study aims to help policy-makers by providing useful insights about the domain areas most impacted during the Covid-19 pandemic. Some of the most
-discussed domain during pandemic include Education, Mental health, Healthcare, children, technology, lockdown
+discussed domain during pandemic include Education, Mental health, Healthcare, Children, Technology, lockdown and Mortality as suggested by exploratory text and extensive literature data analysis done in this project.
 
 #  methodology
 
