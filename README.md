@@ -35,7 +35,7 @@ Multicalss Classification steps:
   ###### 1. Covid-19 Trends
   ###### 2. Worldwide Vaccine Trends 
 
-# 4. Results and Discussion 
+# Results and Discussion 
   ###### 1. Evaluating Binary Classifier Performance Evaluation
                  /*** LSTM Performance, ML Classifiers Performance ***/
   ###### 2. Multiclassification Performance Evaluation
