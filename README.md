@@ -32,12 +32,12 @@ Multicalss Classification steps:
   ###### 3. Latent Dirchlet Allcation (LDA) Topic Modelling
  
 ##  3. Exploratory Data Analysis (EDA): Exploring and visualaztion of trends
-  ###### 1.Covid-19 Trends
-  ###### 2.Vaccine trends
+  ###### 1. Covid-19 Trends
+  ###### 2. Vaccine trends
 
 ##  4. Results and Discussion 
-  ###### 1.Evaluating Binary Classifier Performance Evaluation
+  ###### 1. Evaluating Binary Classifier Performance Evaluation
                  /*** LSTM Performance, ML Classifiers Performance ***/
-  ###### 2.Multiclassification Performance Evaluation
+  ###### 2. Multiclassification Performance Evaluation
                  /***LDA Performance Evaluation***/
 
