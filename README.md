@@ -1,6 +1,4 @@
-#
-
-Understanding Trends and Temporal Evolution of Covid-19 Literature
+#  Understanding Trends and Temporal Evolution of Covid-19 Literature
 
 
 This study aims to help policy-makers by providing useful insights about the domain areas most impacted during the Covid-19 pandemic. Some of the most
