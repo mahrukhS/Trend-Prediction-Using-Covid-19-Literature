@@ -1,12 +1,16 @@
-#Understanding Trends and Temporal Evolution of Covid-19 Literature
+#
+
+Understanding Trends and Temporal Evolution of Covid-19 Literature
 
 
 This study aims to help policy-makers by providing useful insights about the domain areas most impacted during the Covid-19 pandemic. Some of the most
 discussed domain during pandemic include Education, Mental health, Healthcare, children, technology, lockdown
 
-#methodology
+#
+methodology
 
-##1. Binary Classification
+##
+1. Binary Classification
 
 The Binary Classification is divided into following steps: 
   ######1. Data Collection
