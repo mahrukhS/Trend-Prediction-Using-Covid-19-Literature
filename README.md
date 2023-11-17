@@ -8,6 +8,7 @@ discussed domain during pandemic include Education, Mental health, Healthcare, C
 
 
 ##  1. Binary Classification
+![image](https://github.com/mahrukhS/Trend-Prediction-Using-Covid-19-Literature/assets/66876079/1848f9a8-0864-4a56-ab5a-d6afbe349b0e)
 
 The Binary Classification is divided into following steps: 
   ###### 1. Data Collection
@@ -21,9 +22,10 @@ The Binary Classification is divided into following steps:
  
 ##  2. Multiclass Classification
 
-Multiclass classification is applied on covid-separated papers. LDA Topic modelling assigns a topic to each paper based on the domain that fits best
+![image](https://github.com/mahrukhS/Trend-Prediction-Using-Covid-19-Literature/assets/66876079/4d813368-1788-4c59-80c9-33d02d68328c)
 
-Multicalss Classification steps:
+Multiclass classification is applied on covid-separated papers. LDA Topic modelling assigns a topic to each paper based on the domain that fits best.
+Multiclass Classification includes the following steps:
   ###### 1. Exploratory text analysis of covid-sepated literature
   ###### 2. Data Preparation using Natural Language Processing
                   
@@ -32,12 +34,15 @@ Multicalss Classification steps:
   ###### 3. Latent Dirchlet Allcation (LDA) Topic Modelling
  
 ##  3. Exploratory Data Analysis (EDA): Exploring and visualising trends
-  ###### 1. Covid-19 Trends
-  ###### 2. Worldwide Vaccine Trends 
+
+![image](https://github.com/mahrukhS/Trend-Prediction-Using-Covid-19-Literature/assets/66876079/17bba26d-915f-4739-95e4-73638afeab71)
+
+###### 1. Covid-19 Trends
+###### 2. Worldwide Vaccine Trends 
 
 # Results and Discussion 
-  ###### 1. Evaluating Binary Classifier Performance Evaluation
+###### 1. Evaluating Binary Classifier Performance Evaluation
                  /*** LSTM Performance, ML Classifiers Performance ***/
-  ###### 2. Multiclassification Performance Evaluation
+###### 2. Multiclassification Performance Evaluation
                  /***LDA Performance Evaluation***/
 
