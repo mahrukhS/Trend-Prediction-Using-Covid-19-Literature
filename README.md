@@ -1,4 +1,4 @@
-#  Understanding Trends and Temporal Evolution of Covid-19 Literature
+# Understanding Trends and Temporal Evolution of Covid-19 Literature
 
 
 This study aims to help policy-makers by providing useful insights about the domain areas most impacted during the Covid-19 pandemic. Some of the most
@@ -69,5 +69,15 @@ Multiclass Classification includes the following steps:
 
 
 ###### 2. Multiclassification Performance Evaluation
-            /***LDA Performance Evaluation***/
+            /***Performance Evaluation of Latent Dirichlet Allocation (LDA) Topic Modelling***/
+            A set of different numbers of topics (i.e.5,10,15,20,25,30,35,40,45) are generated. 
+            The performance for each set of topics is analyzed by fine-tuning parameters of coherence and perplexity
+
+            LDA Performance Evaluation (k=25 Best fit)
+![image](https://github.com/mahrukhS/Trend-Prediction-Using-Covid-19-Literature/assets/66876079/863e4152-3d95-46ea-95bb-8892cca46578)
+
+            Collective Word Cloud for k=25 topics
+![image](https://github.com/mahrukhS/Trend-Prediction-Using-Covid-19-Literature/assets/66876079/00eb1971-5cf5-4373-bf71-08cb5f77ab68)
+
+
 
